@@ -2,7 +2,7 @@
     "name"                          : "mocha-json-cov-file-reporter",
     "description"                   : "JSON cov mocha reporter with file output",
     "author"                        : "Eric LEVEAU <leveau.eric@gmail.com>",
-    "version"                       : "0.0.3",
+    "version"                       : "0.0.9",
     "main"                          : "index.js",
     "dependencies": {
         "mocha":""
